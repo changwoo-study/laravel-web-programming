@@ -7,3 +7,4 @@
 ## 실습 내용 정리.
 
 1. [Chapter 01: 라라벨 설치하기](practices/chapter-01.md)
+1. [Chapter 02: 전역 환경 설정](practices/chapter-02.md)
